@@ -1,9 +1,0 @@
-filter.lfs.clean=git-lfs clean -- %f
-filter.lfs.smudge=git-lfs smudge -- %f
-filter.lfs.process=git-lfs filter-process
-filter.lfs.required=true
-user.name=Jibin Jose
-user.email=your-email@example.com
-core.autocrlf=true
-http.postbuffer=524288000
-credential.helper=manager-core
